@@ -3,6 +3,7 @@
 *.so
 dist/
 build/
+venv/
 particles.egg-info/
 docs/build/
 docs/source/_autosummary/
